@@ -15,7 +15,8 @@ clear
 Used to clear the terminal screen.
 Example:
 clear
-'''
+```bash
+
 ### What I Learned
 
 Basic shell commands
