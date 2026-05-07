@@ -9,8 +9,9 @@
 
 
 
-echo
-Used to display text in terminal.
+### echo
+Used to display text in the terminal.
+
 Example:
 ```bash
 echo "Hello World"
