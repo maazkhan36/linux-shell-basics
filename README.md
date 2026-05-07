@@ -16,7 +16,8 @@ Used to clear the terminal screen.
 Example:
 clear
 
-###  What I Learned
+### What I Learned
+
 Basic shell commands
 Text output in terminal
 Simple arithmetic in Linux shell
