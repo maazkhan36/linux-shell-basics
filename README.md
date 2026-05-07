@@ -7,7 +7,7 @@
 - expr
 - clear
 
-### echo
+echo
 Used to display text in terminal.
 Example:
 ```bash
